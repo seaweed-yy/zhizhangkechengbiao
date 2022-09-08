@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/timeQuantum"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="时间段"
+        android:textColor="#08088b"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/monday"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="星期一"
+        android:textColor="#08088b"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tuesday"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="星期二"
+        android:textColor="#08088b"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/wednesday"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="星期三"
+        android:textColor="#08088b"
+        android:textSize="14sp" />
+    <TextView
+        android:id="@+id/thursday"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="星期四"
+        android:textColor="#08088b"
+        android:textSize="14sp" />
+    <TextView
+        android:id="@+id/friday"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="星期五"
+        android:textColor="#08088b"
+        android:textSize="14sp" />
+</LinearLayout>
